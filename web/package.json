@@ -18,7 +18,7 @@
     "echarts": "^4.2.1",
     "element-ui": "2.4.6",
     "file-saver": "^2.0.1",
-    "js-cookie": "2.2.0",
+    "js-cookie": "3.0.7",
     "js-md5": "^0.7.3",
     "normalize.css": "7.0.0",
     "nprogress": "0.2.0",
